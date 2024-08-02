@@ -1,0 +1,4 @@
+- This application is created using Spring boot and implemented through the Rest controller and the database connectivity with annotation based configuration (Not XML).
+- All the basic CRUD operations are done with the GET, POST, PUT and DELETE are performed on product and category entities.
+- Relation between Category-Products is one-to-many relation (one category can have multiple products).
+- Machine test has Server side pagination.
